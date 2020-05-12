@@ -1,6 +1,6 @@
 # Fintech landing page
 
-![Fintech Landing](./design/desktop-preview.jpg)
+![Fintech Landing](./design/desktop-design.jpg)
 
 
 ## Tech
